@@ -28,11 +28,11 @@ should not be able to like a repository that does not exist: Para que esse teste
 
 Acesse a pasta repositories-nodejs na raiz do repositório e execute o comando abaixo para instalar as dependências necessárias:
 
-# yarn
+### yarn
 
 Para instalar as dependencias necessárias.
 
-# yarn test
+### yarn test
 
 Para verificar que a aplicação passa nos testes supracitados.
 
