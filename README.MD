@@ -26,7 +26,7 @@ Passar nos seguintes testes:
 
 ## Execução
 
-Acesse a pasta repositories-nodejs na raiz do repositório e execute o comando abaixo para instalar as dependências necessárias:
+Acesse a pasta repositories-nodejs na raiz do repositório e execute os comandos abaixo:
 
 ### yarn
 
