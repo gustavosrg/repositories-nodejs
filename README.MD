@@ -1,6 +1,6 @@
 ## Sobre
 
-Desafio de conceitos básicos de node.js, criando uma aplicação que armazene repositórios de um portfólio, permitindo a criação, listagem, atualização e remoção desses repositórios, alem de permitir que os repositórios recebem "likes".
+Desafio de conceitos básicos de node.js, criando uma aplicação que armazene repositórios de um portfólio, permitindo a criação, listagem, atualização e remoção desses repositórios, alem de permitir que os repositórios recebam "likes".
 
 ## Objetivo
 
